@@ -3,11 +3,9 @@
 	"version": "1.0.1",
 	"description": "Permite ver todos os vídeos do crunchyroll.",
 	"author": "Oltiz",
-	"icons": { "48": "icon.png" },
 	"browser_action":{
 		"default_title": "Crunchyroll BOT",
-		"default_popup": "popup.html",
-		"default_icon": "icon.png"
+		"default_popup": "popup.html"
 	},
 	"permissions": [
 		  "storage"
