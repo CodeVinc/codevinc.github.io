@@ -37,6 +37,8 @@ window.addEventListener("message", function (e)
 	'\n' + m3u8_array[3] +
 	'\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=559942,RESOLUTION=428x240,FRAME-RATE=23.974,CODECS="avc1.42c015,mp4a.40.2"' +
 	'\n' + m3u8_array[4];
+	
+	console.log(m3u8);
 
 	if (stream == "") 
 	{
@@ -63,9 +65,7 @@ window.addEventListener("message", function (e)
 		if (localStorage.getItem(video_id) != null) 
 		{
 			document.getElementsByTagName("video")[0].currentTime = localStorage.getItem(video_id);
-		}
-		
-		document.body.querySelector(".paypal-content").style.display = "flex";
+		}	
 		document.body.querySelector(".main-content").style.display = "none";
 		document.body.querySelector(".footer").style.display = "none";
 	});
