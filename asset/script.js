@@ -1,1 +1,80 @@
-const _0x14d8=['duration','playing','style','image','dl.v.vrv.co','width','height','return\x20(function()\x20','setup','.main-content','.footer','apply','info','player_div','\x0a#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8098235,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS=\x22avc1.640028,mp4a.40.2\x22','addEventListener','ready','getState','trailer_hls','createObjectURL','flex','data','replace','url','\x0a#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2087088,RESOLUTION=848x480,FRAME-RATE=23.974,CODECS=\x22avc1.4d401f,mp4a.40.2\x22','getItem','bind','file','\x0a#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4112345,RESOLUTION=1280x720,FRAME-RATE=23.974,CODECS=\x22avc1.640028,mp4a.40.2\x22','toString','pl.crunchyroll.com','clipTo/120000/','push','console','clipTo/','trace','currentTime','html5','error','getElementsByTagName','\x0a#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=559942,RESOLUTION=428x240,FRAME-RATE=23.974,CODECS=\x22avc1.42c015,mp4a.40.2\x22','__proto__','length','video','100%','#.m3u8','display','return\x20/\x22\x20+\x20this\x20+\x20\x22/','video_config_media','thumbnail','ptBR','split','primary','none','format','hardsub_lang','log','querySelector','warn','body','getPosition','autostart','streams','displayPlaybackLabel','constructor'];(function(_0x5ab085,_0xe6885e){const _0x14d88c=function(_0x2e010b){while(--_0x2e010b){_0x5ab085['push'](_0x5ab085['shift']());}},_0x4c3023=function(){const _0x1fb339={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x240ddd,_0x13de6f,_0x30ca91,_0x5ca6c0){_0x5ca6c0=_0x5ca6c0||{};let _0x5b61c3=_0x13de6f+'='+_0x30ca91,_0x4aa1e1=0x0;for(let _0xc9686f=0x0,_0x515255=_0x240ddd['length'];_0xc9686f<_0x515255;_0xc9686f++){const _0x491a02=_0x240ddd[_0xc9686f];_0x5b61c3+=';\x20'+_0x491a02;const _0x285a6f=_0x240ddd[_0x491a02];_0x240ddd['push'](_0x285a6f),_0x515255=_0x240ddd['length'],_0x285a6f!==!![]&&(_0x5b61c3+='='+_0x285a6f);}_0x5ca6c0['cookie']=_0x5b61c3;},'removeCookie':function(){return'dev';},'getCookie':function(_0x52ef98,_0x4e7efb){_0x52ef98=_0x52ef98||function(_0x4607f6){return _0x4607f6;};const _0x25da7f=_0x52ef98(new RegExp('(?:^|;\x20)'+_0x4e7efb['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)')),_0x3ce746=function(_0x309655,_0x4fc214){_0x309655(++_0x4fc214);};return _0x3ce746(_0x14d88c,_0xe6885e),_0x25da7f?decodeURIComponent(_0x25da7f[0x1]):undefined;}},_0x370868=function(){const _0x3cd3a1=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x3cd3a1['test'](_0x1fb339['removeCookie']['toString']());};_0x1fb339['updateCookie']=_0x370868;let _0x19ca3c='';const _0x31d9e5=_0x1fb339['updateCookie']();if(!_0x31d9e5)_0x1fb339['setCookie'](['*'],'counter',0x1);else _0x31d9e5?_0x19ca3c=_0x1fb339['getCookie'](null,'counter'):_0x1fb339['removeCookie']();};_0x4c3023();}(_0x14d8,0x1a1));const _0x4c30=function(_0x5ab085,_0xe6885e){_0x5ab085=_0x5ab085-0x6b;let _0x14d88c=_0x14d8[_0x5ab085];return _0x14d88c;};const _0x2f9fe2=_0x4c30,_0x13de6f=function(){let _0x4aa1e1=!![];return function(_0xc9686f,_0x515255){const _0x491a02=_0x4aa1e1?function(){if(_0x515255){const _0x285a6f=_0x515255['apply'](_0xc9686f,arguments);return _0x515255=null,_0x285a6f;}}:function(){};return _0x4aa1e1=![],_0x491a02;};}(),_0x240ddd=_0x13de6f(this,function(){const _0x52ef98=function(){const _0x315ebd=_0x4c30,_0x4e7efb=_0x52ef98[_0x315ebd(0x90)](_0x315ebd(0x7f))()[_0x315ebd(0x90)]('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x4e7efb['test'](_0x240ddd);};return _0x52ef98();});_0x240ddd();const _0x370868=function(){let _0x25da7f=!![];return function(_0x3ce746,_0x4607f6){const _0x309655=_0x25da7f?function(){const _0x1203b3=_0x4c30;if(_0x4607f6){const _0x4fc214=_0x4607f6[_0x1203b3(0x9c)](_0x3ce746,arguments);return _0x4607f6=null,_0x4fc214;}}:function(){};return _0x25da7f=![],_0x309655;};}(),_0x1fb339=_0x370868(this,function(){const _0x5ef56d=_0x4c30;let _0x3cd3a1;try{const _0x46751b=Function(_0x5ef56d(0x98)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x3cd3a1=_0x46751b();}catch(_0x437ac8){_0x3cd3a1=window;}const _0x1efb38=_0x3cd3a1[_0x5ef56d(0x71)]=_0x3cd3a1[_0x5ef56d(0x71)]||{},_0x1fac16=[_0x5ef56d(0x88),_0x5ef56d(0x8a),_0x5ef56d(0x9d),_0x5ef56d(0x76),'exception','table',_0x5ef56d(0x73)];for(let _0x5db77e=0x0;_0x5db77e<_0x1fac16['length'];_0x5db77e++){const _0x4dd3d5=_0x370868[_0x5ef56d(0x90)]['prototype'][_0x5ef56d(0xab)](_0x370868),_0x4415e5=_0x1fac16[_0x5db77e],_0x13452f=_0x1efb38[_0x4415e5]||_0x4dd3d5;_0x4dd3d5[_0x5ef56d(0x79)]=_0x370868['bind'](_0x370868),_0x4dd3d5[_0x5ef56d(0x6d)]=_0x13452f[_0x5ef56d(0x6d)][_0x5ef56d(0xab)](_0x13452f),_0x1efb38[_0x4415e5]=_0x4dd3d5;}});_0x1fb339(),window[_0x2f9fe2(0xa0)]('message',function(_0x3a760d){const _0xca4800=_0x2f9fe2;console[_0xca4800(0x88)](_0x3a760d[_0xca4800(0xa6)][_0xca4800(0x80)]);let _0x160405=JSON['parse'](_0x3a760d['data'][_0xca4800(0x80)]),_0x1ef7b2=_0xca4800(0x82),_0xed13ec='',_0x376bee=_0x160405['metadata']['id'],_0xbc7b6c=0x0,_0x56b15e=[];for(var _0x32952f=0x0;_0x32952f<_0x160405[_0xca4800(0x8e)][_0xca4800(0x7a)];_0x32952f++){_0x160405[_0xca4800(0x8e)][_0x32952f][_0xca4800(0x86)]==_0xca4800(0xa3)&&_0x160405[_0xca4800(0x8e)][_0x32952f][_0xca4800(0x87)]==_0x1ef7b2&&(_0xbc7b6c<=0x4&&(_0x56b15e[_0xca4800(0x70)](_0x160405[_0xca4800(0x8e)][_0x32952f]['url'][_0xca4800(0xa7)](_0xca4800(0x6f),_0xca4800(0x72)+_0x160405['metadata'][_0xca4800(0x91)]+'/')['replace'](_0x160405['streams'][_0x32952f][_0xca4800(0xa8)][_0xca4800(0x83)]('/')[0x2],_0xca4800(0x95))),_0xbc7b6c++));if(_0x160405[_0xca4800(0x8e)][_0x32952f]['format']=='adaptive_hls'&&_0x160405[_0xca4800(0x8e)][_0x32952f][_0xca4800(0x87)]==_0x1ef7b2){_0xed13ec=_0x160405['streams'][_0x32952f]['url']['replace'](_0xca4800(0x6e),_0xca4800(0x95));break;}}m3u8='#EXTM3U'+_0xca4800(0x6c)+'\x0a'+_0x56b15e[0x0]+_0xca4800(0x9f)+'\x0a'+_0x56b15e[0x1]+_0xca4800(0xa9)+'\x0a'+_0x56b15e[0x2]+'\x0a#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1090461,RESOLUTION=640x360,FRAME-RATE=23.974,CODECS=\x22avc1.4d401e,mp4a.40.2\x22'+'\x0a'+_0x56b15e[0x3]+_0xca4800(0x78)+'\x0a'+_0x56b15e[0x4];if(_0xed13ec==''){const _0x1ea402={};_0x1ea402['type']='text/plain;\x20charset=utf-8';var _0x3e2fd7=new Blob([m3u8],_0x1ea402);_0xed13ec=URL[_0xca4800(0xa4)](_0x3e2fd7)+_0xca4800(0x7d);}const _0x58bb00=jwplayer(_0xca4800(0x9e)),_0x47fde3={};_0x47fde3[_0xca4800(0x6b)]=_0xed13ec,_0x47fde3[_0xca4800(0x94)]=_0x160405[_0xca4800(0x81)][_0xca4800(0xa8)],_0x47fde3[_0xca4800(0x96)]='100%',_0x47fde3[_0xca4800(0x97)]=_0xca4800(0x7c),_0x47fde3[_0xca4800(0x8d)]=![],_0x47fde3[_0xca4800(0x8f)]=!![],_0x47fde3[_0xca4800(0x84)]=_0xca4800(0x75),_0x58bb00[_0xca4800(0x99)](_0x47fde3),jwplayer()['on'](_0xca4800(0xa1),function(_0xc773b8){const _0x469695=_0xca4800;localStorage[_0x469695(0xaa)](_0x376bee)!=null&&(document[_0x469695(0x77)](_0x469695(0x7b))[0x0][_0x469695(0x74)]=localStorage['getItem'](_0x376bee)),document[_0x469695(0x8b)]['querySelector']('.paypal-content')['style'][_0x469695(0x7e)]=_0x469695(0xa5),document[_0x469695(0x8b)][_0x469695(0x89)](_0x469695(0x9a))[_0x469695(0x93)][_0x469695(0x7e)]=_0x469695(0x85),document['body'][_0x469695(0x89)](_0x469695(0x9b))[_0x469695(0x93)][_0x469695(0x7e)]=_0x469695(0x85);}),setInterval(function(){const _0x52ddb3=_0xca4800;jwplayer()[_0x52ddb3(0xa2)]()==_0x52ddb3(0x92)&&localStorage['setItem'](_0x376bee,jwplayer()[_0x52ddb3(0x8c)]());},0xbb8);});
+window.addEventListener("message", function (e) 
+{
+	console.log(e.data.video_config_media);
+
+	let video_config_media = JSON.parse(e.data.video_config_media);
+	let user_lang = 'ptBR';
+
+	let stream = "";
+	let video_id = video_config_media['metadata']['id'];
+	let rows_number = 0;
+	let m3u8_array = [];
+
+	for (var i = 0; i < video_config_media['streams'].length; i++) 
+	{
+		if (video_config_media['streams'][i].format == 'trailer_hls' && video_config_media['streams'][i].hardsub_lang == user_lang)
+		{
+			if (rows_number <= 4) 
+			{
+				m3u8_array.push(video_config_media['streams'][i].url.replace("clipTo/120000/", "clipTo/" + video_config_media['metadata']['duration'] + "/").replace(video_config_media['streams'][i].url.split("/")[2], "dl.v.vrv.co"));
+				rows_number++;
+			}
+		}
+		if (video_config_media['streams'][i].format == 'adaptive_hls' && video_config_media['streams'][i].hardsub_lang == user_lang) {
+			stream = video_config_media['streams'][i].url.replace("pl.crunchyroll.com", "dl.v.vrv.co");
+			break;
+		}
+	}
+
+	m3u8 = '#EXTM3U' +
+	'\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4112345,RESOLUTION=1280x720,FRAME-RATE=23.974,CODECS="avc1.640028,mp4a.40.2"' +
+	'\n' + m3u8_array[0] +
+	'\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8098235,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS="avc1.640028,mp4a.40.2"' +
+	'\n' + m3u8_array[1] +
+	'\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2087088,RESOLUTION=848x480,FRAME-RATE=23.974,CODECS="avc1.4d401f,mp4a.40.2"' +
+	'\n' + m3u8_array[2] +
+	'\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1090461,RESOLUTION=640x360,FRAME-RATE=23.974,CODECS="avc1.4d401e,mp4a.40.2"' +
+	'\n' + m3u8_array[3] +
+	'\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=559942,RESOLUTION=428x240,FRAME-RATE=23.974,CODECS="avc1.42c015,mp4a.40.2"' +
+	'\n' + m3u8_array[4];
+
+	if (stream == "") 
+	{
+		var blob = new Blob([m3u8], {
+			type: "text/plain; charset=utf-8"
+		});
+		stream = URL.createObjectURL(blob) + "#.m3u8";
+	}
+
+	const jw = jwplayer("player_div");
+
+	jw.setup({
+		"file": stream,
+		"image": video_config_media['thumbnail']['url'],
+		"width": "100%",
+		"height": "100%",
+		"autostart": false,
+		"displayPlaybackLabel": true,
+		"primary": "html5"
+	});
+
+	jwplayer().on('ready', function (e) 
+	{	
+		if (localStorage.getItem(video_id) != null) 
+		{
+			document.getElementsByTagName("video")[0].currentTime = localStorage.getItem(video_id);
+		}
+		
+		document.body.querySelector(".paypal-content").style.display = "flex";
+		document.body.querySelector(".main-content").style.display = "none";
+		document.body.querySelector(".footer").style.display = "none";
+	});
+
+	setInterval(function() 
+	{
+		if (jwplayer().getState() == "playing") 
+		{
+			localStorage.setItem(video_id, jwplayer().getPosition());
+		}
+	}, 3000);
+});
